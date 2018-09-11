@@ -1,5 +1,5 @@
 # Feed-The-Beast Revelation (Modded Minecraft 1.12) in Docker
-To pull the image:
+To pull the image: (this image may not be up to date, it might be better to build locally)
 ```
 docker pull audiohacked/ftb_revelation:stable
 ```
